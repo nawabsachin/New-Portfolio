@@ -9343,6 +9343,7 @@ textarea.form-control {
   padding: 5em 0; }
   @media (max-width: 1199.98px) {
     .ftco-counter {
+      margin-top: -320px;
       background-position: center center !important; } }
   .ftco-counter .block-18 {
     display: block;
