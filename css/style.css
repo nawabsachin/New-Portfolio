@@ -1,4 +1,4 @@
-/*!
+f/*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
  * Copyright 2011-2019 Twitter, Inc.
@@ -8808,6 +8808,10 @@ h1, h2, h3, h4, h5,
         color: #000000;
         width: 130px; }
 
+        .email-2{
+          display: none;
+        }
+
 .ftco-about .my-interest {
   margin-top: 30px; }
   .ftco-about .my-interest .interest-wrap {
@@ -8815,6 +8819,12 @@ h1, h2, h3, h4, h5,
     border-left: 2px solid #b1b493;
     padding-left: 10px; }
     @media (max-width: 1199.98px) {
+      .email-1{
+        display: none;
+      }
+      .email-2{
+        display: block;
+      }
       .ftco-about .my-interest .interest-wrap {
         width: 50%;
         float: left;
